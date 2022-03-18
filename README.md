@@ -1,2 +1,2 @@
 ## Dynamic Time Warping
-Dynamic time warping for sequences
+Dynamic time warping method for sequences
