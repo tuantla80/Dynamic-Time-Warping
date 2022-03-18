@@ -1,2 +1,2 @@
-# Dynamic_Time_Warping
+## Dynamic Time Warping
 Dynamic time warping for sequences
